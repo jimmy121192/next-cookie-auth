@@ -17,6 +17,6 @@
     "react-dom": "^16.13.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.4"
   }
 }
